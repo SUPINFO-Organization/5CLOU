@@ -44,7 +44,7 @@ Deploy an **Apache Spark cluster** on **Azure HDInsight** and manage it to proce
 
 **Objective**: Upload a sample dataset (e.g., a CSV file) related to the **Paris 2024 Olympic Games** to **Azure Blob Storage** to use with the Apache Spark cluster.
 
-- **Example Dataset**: [Paris 2024 Event Schedules](https://data.paris2024.org/explore/?sort=modified)
+- **Example Dataset**: [Paris 2024 Event Schedules](https://www.data.gouv.fr/datasets/paris-2024-calendrier-des-sessions-version-simplifiee)
   - You can upload a dataset that contains **event schedules**, **venue information**, or **participant data**.
 
 - **Navigate to Azure Storage account**:
